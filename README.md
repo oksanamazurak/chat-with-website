@@ -1,4 +1,4 @@
-# openai-projects
+# Chat-with-project
 
 The collection of LLM projects for various application.
 
